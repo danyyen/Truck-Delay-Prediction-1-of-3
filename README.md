@@ -1,4 +1,4 @@
-# **Build End-to-End ML Pipeline for Truck Delay Classification**
+# **Build End-to-End ML Pipeline for Truck Delay Classification** Past 1 of 3
 
 
 The project addresses a critical challenge faced by the logistics industry. Delayed truck shipments not only result in increased operational costs but also impact customer satisfaction. Timely delivery of goods is essential to meet customer expectations and maintain the competitiveness of logistics companies.
