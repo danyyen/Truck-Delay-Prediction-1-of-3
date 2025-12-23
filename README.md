@@ -12,12 +12,12 @@ By accurately predicting truck delays, logistics companies can:
 The primary objective of this project is to create an end-to-end machine learning pipeline for truck delay classification. This pipeline will encompass data fetching, creating a feature store, data preprocessing, and feature engineering.
 
 # Tech Stack
-➔ Language: Python, SQL
-➔ Libraries: NumPy, Pandas, PyMySQL , Psycopg2, Matplotlib, Seaborn
-➔ Data Storage: PostgreSQL,MySQL, AWS RDS, Hopsworks
-➔ Data Visual Tool(SQL): MySQL Workbench, Pgadmin4
-➔ Feature Store: Hopsworks
-➔ Cloud Platform: AWS Sagemaker
+* ➔ Language: Python, SQL
+* ➔ Libraries: NumPy, Pandas, PyMySQL , Psycopg2, Matplotlib, Seaborn
+* ➔ Data Storage: PostgreSQL,MySQL, AWS RDS, Hopsworks
+* ➔ Data Visual Tool(SQL): MySQL Workbench, Pgadmin4
+* ➔ Feature Store: Hopsworks
+* ➔ Cloud Platform: AWS Sagemaker
 
 # Data Description
 The project involves the following data tables:
