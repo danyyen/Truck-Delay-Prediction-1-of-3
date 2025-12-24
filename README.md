@@ -1,4 +1,4 @@
-# **Build End-to-End ML Pipeline for Truck Delay Classification** Past 1 of 3
+# **Build End-to-End ML Pipeline for Truck Delay Classification** Part 1 of 3
 
 
 The project addresses a critical challenge faced by the logistics industry. Delayed truck shipments not only result in increased operational costs but also impact customer satisfaction. Timely delivery of goods is essential to meet customer expectations and maintain the competitiveness of logistics companies.
@@ -29,7 +29,7 @@ The project involves the following data tables:
 *  Traffic: Traffic-related data
 *  Truck Schedule: Schedules and timing information for trucks
 
-# ** This project is the first part of a three-part series ** # 
+# ** This project is the first part of a three-part (1 of 3) series ** # 
 This is aimed at solving the truck delay prediction problem. In this initial phase, we will utilize PostgreSQL and MYSQL in AWS Redshift to store the data, perform data retrieval, and conduct basic exploratory data analysis (EDA). With Hopsworks feature store, we will build a pipeline that includes data processing feature engineering and prepare the data for model building.
 
 ![image.png](https://images.pexels.com/photos/2199293/pexels-photo-2199293.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
