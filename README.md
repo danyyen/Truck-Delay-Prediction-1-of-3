@@ -73,28 +73,23 @@ This is aimed at solving the truck delay prediction problem. In this initial pha
 
 ## Project Structure
 
-│   .gitattributes
-│   .gitignore
-│   README.md
-│   requirements.txt
-│
-├───data_sample
-│       city_weather_sample.csv
-│       drivers_table_sample.csv
-│       routes_table_sample.csv
-│       routes_weather_sample.csv
-│       traffic_table_sample.csv
-│       trucks_table_sample.csv
-│       truck_schedule_table_sample.csv
-│
-├───sql
-│       truck-eta-mysql.sql
-│       truck-eta-postgres.sql
-│
-└───src
-        Truck_Delay_pipeline_1_of_3.py
-
-
-* Data Storage:
-  * Storing the final engineered features in the feature store for easy access and consistency
+```text
+git_repo_folder/
+├── data_sample/
+│   ├── city_weather_sample.csv
+│   ├── drivers_table_sample.csv
+│   ├── routes_table_sample.csv
+│   ├── routes_weather_sample.csv
+│   ├── traffic_table_sample.csv
+│   ├── trucks_table_sample.csv
+│   └── truck_schedule_table_sample.csv
+├── sql/
+│   ├── truck-eta-mysql.sql
+│   └── truck-eta-postgres.sql
+├── src/
+│   └── Truck_Delay_pipeline_1_of_3.py
+├── .gitattributes
+├── .gitignore
+├── README.md
+└── requirements.txt
 
