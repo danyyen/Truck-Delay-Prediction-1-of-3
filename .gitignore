@@ -1,0 +1,17 @@
+# Data
+*.csv
+*.zip
+*.pdf
+*.ipynb
+
+# Junk
+Database_backup/
+end-to-end-1/
+part 2/
+__MACOSX/
+
+# Secrets
+.env
+
+# Python
+__pycache__/
